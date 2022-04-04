@@ -4,7 +4,7 @@ export const greetings = {
     name: "Justin Turney",
     title: "Hello. I'm Justin",
     description: "A passionate Full Stack Web Developer.",
-    resumeLink: "",
+    resumeLink: "/files/Resume-Justin-Turney.pdf",
 };
 
 export const openSource = {
@@ -24,13 +24,13 @@ export const skillsSection = {
     subTitle: "I build websites and applications with various technologies.",
     skills: [
         emoji(
-            "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+            "⚡ Develop interactive Front end / User Interfaces for your web applications"
         ),
         emoji(
-            "⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"
+            "⚡ Develop database services and APIs for web applications"
         ),
         emoji(
-            "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+            "⚡ Integration of third party services such as Firebase, AWS, Digital Ocean, and other cloud products"
         ),
     ],
 
@@ -194,18 +194,18 @@ export const experience = [{
         role: "Full Stack Developer",
         company: "Freelance",
         companylogo: "/img/icons/common/900918.jpg",
-        date: "June 2018 – Present",
+        date: "September 2019 – Present",
         desc: "I build public and internal facing websites for commercial entities",
         descBullets: [
-            "Write inventory systems from scratch",
-            "Set up hosting",
+            "Design and implement robust enterprise web applications",
+            "Set up hosting, DNS, and networking for public facing websites",
         ],
     },
     {
-        role: "IT Systems Technician/DevOps",
+        role: "IT Systems Technician",
         company: "Archer Daniels Midland",
         companylogo: "/img/icons/common/Archer_Daniels_Midland_logo.svg",
-        date: "April 2019 – Present",
+        date: "May 2019 – Present",
         desc: "Manage IT systems and write/maintain web and desktop apps for production use",
         descBullets: [
             "Automated a previously manual preventitive maintenance tasks",
@@ -216,8 +216,12 @@ export const experience = [{
         role: "Network Engineer",
         company: "Vandernet Technology Services",
         companylogo: "/img/icons/common/download.png",
-        date: "Jan 2015 – Sep 2015",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        date: "July 2016 – May 2019",
+        desc: "Started as desktop support, moved op to network engineer. Managed all layers of large networks",
+        descBullets: [
+            "Designed systems and services for VoIP, security, and network applications",
+            "Worked as de facto R&D"
+        ]
     },
 ];
 
