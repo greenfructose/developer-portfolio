@@ -21,7 +21,7 @@ export const socialLinks = {
 
 export const skillsSection = {
     title: "What I do",
-    subTitle: "Web developer with experience in many technologies",
+    subTitle: "I build websites and applications with various technologies.",
     skills: [
         emoji(
             "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
@@ -67,6 +67,10 @@ export const skillsSection = {
             fontAwesomeClassname: "vscode-icons:file-type-npm",
         },
         {
+            skillName: "django",
+            fontAwesomeClassname: "logos:django",
+        },
+        {
             skillName: "sql-database",
             fontAwesomeClassname: "vscode-icons:file-type-sql",
         },
@@ -75,20 +79,64 @@ export const skillsSection = {
             fontAwesomeClassname: "vscode-icons:file-type-mongo",
         },
         {
+            skillName: "firebase",
+            fontAwesomeClassname: "logos:firebase",
+        },
+        {
+            skillName: "db2",
+            fontAwesomeClassname: "logos:ibm",
+        },
+        {
+            skillName: "nginx",
+            fontAwesomeClassname: "logos:nginx"
+        },
+        {
+            skillName: "apache",
+            fontAwesomeClassname: "logos:apache"
+        },
+        {
             skillName: "aws",
             fontAwesomeClassname: "logos:aws",
         },
         {
-            skillName: "firebase",
-            fontAwesomeClassname: "logos:firebase",
+            skillName: "google-cloud",
+            fontAwesomeClassname: "logos:google-cloud",
+        },
+        {
+            skillName: "digital-ocean",
+            fontAwesomeClassname: "logos:digital-ocean",
         },
         {
             skillName: "python",
             fontAwesomeClassname: "logos:python",
         },
         {
+            skillName: "go",
+            fontAwesomeClassname: "logos:go",
+        },
+        {
+            skillName: "java",
+            fontAwesomeClassname: "logos:java",
+        },
+        {
+            skillName: "rust",
+            fontAwesomeClassname: "logos:rust",
+        },
+        {
+            skillName: "ubuntu",
+            fontAwesomeClassname: "logos:ubuntu",
+        },
+        {
+            skillName: "fedora",
+            fontAwesomeClassname: "logos:fedora",
+        },
+        {
             skillName: "git",
             fontAwesomeClassname: "logos:git-icon",
+        },
+        {
+            skillName: "github",
+            fontAwesomeClassname: "logos:github-icon",
         },
         {
             skillName: "docker",
@@ -145,7 +193,7 @@ export const SkillBars = [{
 export const experience = [{
         role: "Full Stack Developer",
         company: "Freelance",
-        companylogo: "/img/icons/common/google.svg",
+        companylogo: "/img/icons/common/900918.jpg",
         date: "June 2018 – Present",
         desc: "I build public and internal facing websites for commercial entities",
         descBullets: [
@@ -154,16 +202,20 @@ export const experience = [{
         ],
     },
     {
-        role: "Front-End Developer",
-        company: "Github",
-        companylogo: "/img/icons/common/github.svg",
-        date: "May 2017 – May 2018",
-        desc: "Lorem ipsum dolor sit amet, consefdctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        role: "IT Systems Technician/DevOps",
+        company: "Archer Daniels Midland",
+        companylogo: "/img/icons/common/Archer_Daniels_Midland_logo.svg",
+        date: "April 2019 – Present",
+        desc: "Manage IT systems and write/maintain web and desktop apps for production use",
+        descBullets: [
+            "Automated a previously manual preventitive maintenance tasks",
+            "Built and programmed a web server, consolodited various desktop applications into a single web app"
+        ]
     },
     {
-        role: "Software Engineer Intern",
-        company: "Airbnb",
-        companylogo: "/img/icons/common/airbnbLogo.png",
+        role: "Network Engineer",
+        company: "Vandernet Technology Services",
+        companylogo: "/img/icons/common/download.png",
         date: "Jan 2015 – Sep 2015",
         desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     },
