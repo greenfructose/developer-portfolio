@@ -233,7 +233,7 @@ export const projects = [{
     {
         name: "Strickland Automotive",
         desc: "Site for car dealership",
-        link: "https://stricklandautomotive.deals",
+        link: "http://stricklandautomotive.deals",
     },
     {
         name: "Rick and Morty Character Bot",
