@@ -226,20 +226,20 @@ export const experience = [{
 ];
 
 export const projects = [{
-        name: "lorem ipsum",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-        link: "https://example.com",
+        name: "TribeFeed",
+        desc: "Twitter like microblogging service",
+        link: "https://tribefeed.online",
     },
     {
-        name: "lorem ipsum",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-        github: "https://github.com/1hanzla100",
+        name: "Strickland Automotive",
+        desc: "Site for car dealership",
+        link: "https://stricklandautomotive.deals",
     },
     {
-        name: "lorem ipsum",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-        github: "https://github.com/1hanzla100",
-        link: "https://example.com",
+        name: "Rick and Morty Character Bot",
+        desc: "A bot that posts random Rick and Morty character bios on Twitter and Mastodon",
+        github: "https://github.com/greenfructose/RickAndMortyMastodonBot",
+        link: "https://twitter.com/randmcharacters",
     },
 ];
 
