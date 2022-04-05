@@ -217,7 +217,7 @@ export const experience = [{
         company: "Vandernet Technology Services",
         companylogo: "/img/icons/common/download.png",
         date: "July 2016 – May 2019",
-        desc: "Started as desktop support, moved op to network engineer. Managed all layers of large networks",
+        desc: "Started as desktop support, moved up to network engineer. Managed all layers of large networks",
         descBullets: [
             "Designed systems and services for VoIP, security, and network applications",
             "Worked as de facto R&D"
