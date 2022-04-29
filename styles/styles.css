@@ -6,3 +6,11 @@ a {
     color: white;
     text-decoration: underline;
 }
+
+.equal-height {
+    height: 60vh;
+}
+
+.equal-height-proj {
+    height: 30vh;
+}

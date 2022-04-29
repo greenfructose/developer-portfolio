@@ -157,6 +157,10 @@ export const SkillBars = [{
         Stack: "Programming",
         progressPercentage: "95",
     },
+    {
+        Stack: "Cloud Hosting",
+        progressPercentage:"90",
+    }
 ];
 
 
@@ -197,18 +201,24 @@ export const experience = [{
 
 export const projects = [{
         name: "TribeFeed",
-        desc: "Twitter-like microblogging Mastodon instance",
+        desc: "Twitter-like microblogging Mastodon instance hosted in Google cloud on a dedicated Ubuntu 20.04 server.",
         link: "https://tribefeed.online",
     },
     {
         name: "Strickland Automotive",
-        desc: "Site for car dealership",
+        desc: "Site for car dealership built in Wordpress, hosted in Google Cloud.",
         link: "http://stricklandautomotive.deals",
     },
     {
         name: "Rick and Morty Character Bot",
-        desc: "A bot that posts random Rick and Morty character bios on Twitter and Mastodon",
+        desc: "A bot that posts random Rick and Morty character bios on Twitter and Mastodon, hosted in Google Cloud on Ubuntu 20.04. A cron job runs the bot every 4 hours.",
         github: "https://github.com/greenfructose/RickAndMortyMastodonBot",
         link: "https://twitter.com/randmcharacters",
+    },
+    {
+        name: "This site (justinturney.com)",
+        desc: "Built with React and Next.js, hosted on Netlify with CI/CD through GitHub.",
+        github: "https://github.com/greenfructose/developer-portfolio",
+        link: "https://www.justinturney.com",
     },
 ];

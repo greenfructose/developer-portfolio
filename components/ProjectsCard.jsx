@@ -8,7 +8,7 @@ const ProjectsCard = ({ data }) => {
 	return (
 		<Col lg="6">
 			<Fade left duration={1000} distance="40px">
-				<Card className="shadow-lg--hover shadow mt-4">
+				<Card className="shadow-lg--hover shadow mt-4 equal-height-proj">
 					<CardBody>
 						<div className="d-flex px-3">
 							<div className="pl-4">

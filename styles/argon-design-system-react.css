@@ -15708,6 +15708,10 @@ button.section-darker:focus {
     margin-top: 3rem;
 }
 
+.row-grid {
+    display: flex;
+}
+
 @media (min-width: 992px) {
     [class*="mt--"],
     [class*="mr--"],
