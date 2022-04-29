@@ -17,6 +17,9 @@ a {
 
 @media only screen and (max-width: 600px){
     .equal-height-proj {
-        height: 45vh;
+        height: 50vh;
+    }
+    .equal-height {
+        height: 85vh;
     }
 }
