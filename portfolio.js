@@ -216,6 +216,12 @@ export const projects = [{
         link: "https://twitter.com/randmcharacters",
     },
     {
+        name: "Dev Blog",
+        desc: "Built with React and Next.js, hosted on Vercel with CI/CD through GitHub, styled with TailwindCSS. GraphQL models hosted at GraphCMS.com",
+        github: "https://github.com/greenfructose/dev-blog",
+        link: "https://dev-blog-delta.vercel.app/",
+    },
+    {
         name: "This site (justinturney.com)",
         desc: "Built with React and Next.js, hosted on Netlify with CI/CD through GitHub.",
         github: "https://github.com/greenfructose/developer-portfolio",
