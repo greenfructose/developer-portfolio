@@ -227,4 +227,10 @@ export const projects = [{
         github: "https://github.com/greenfructose/developer-portfolio",
         link: "https://www.justinturney.com",
     },
+    {
+        name: "Exercise Instruction Site",
+        desc: "Built with React and RapidAPI, hosted on Netlify.",
+        github: "https://github.com/greenfructose/exercise-app",
+        link: "https://celadon-paletas-da91b5.netlify.app/",
+    },
 ];
