@@ -199,11 +199,7 @@ export const experience = [{
     },
 ];
 
-export const projects = [{
-        name: "TribeFeed",
-        desc: "Twitter-like microblogging Mastodon instance hosted in Google cloud on a dedicated Ubuntu 20.04 server.",
-        link: "https://tribefeed.online",
-    },
+export const projects = [
     {
         name: "Strickland Automotive",
         desc: "Site for car dealership built in Wordpress, hosted in Google Cloud.",
