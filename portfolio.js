@@ -201,9 +201,9 @@ export const experience = [{
 
 export const projects = [
     {
-        name: "Strickland Automotive",
-        desc: "Site for car dealership built in Wordpress, hosted in Google Cloud.",
-        link: "http://stricklandautomotive.deals",
+        name: "Empires and Embers Dev Blog",
+        desc: "Dev Blog for a 4X strategy game I'm building.",
+        link: "http://dev.empiresandembers.com",
     },
     {
         name: "Rick and Morty Character Bot",
