@@ -176,14 +176,47 @@ export const experience = [{
         ],
     },
     {
+        role: "System Integration Specialist I",
+        company: "JMARK Business Solutions",
+        companylogo: "/img/icons/common/jmarklogo.jpg",
+        date: "April 2025 – Present",
+        desc: "Oversee the health, reliability, availability, and performance of internal toolsets critical to JMARK’s service delivery operations.",
+        descBullets: [
+            "Manage, maintain, and support tools used by the Proactive Health Team; provide troubleshooting to ensure continuous service integrity.",
+            "Create and coordinated the development of custom automation scripts to streamline workflows and enhance operational efficiency."
+        ]
+    },
+    {
+        role: "IT Audit and Compliance Specialist I",
+        company: "JMARK Business Solutions",
+        companylogo: "/img/icons/common/jmarklogo.jpg",
+        date: "March 2024 – April 2025",
+        desc: "Prepared banking clients for IT audits and regulatory exams; proactively addressed vulnerabilities identified through routine scanning and assessments.",
+        descBullets: [
+            "Developed and automated internal processes, significantly boosting productivity and efficiency within the Compliance Department.",
+            "Provided guidance to technicians on best practices and methodologies, fostering a collaborative and knowledge-sharing environment."
+        ]
+    },
+    {
+        role: "Senior Systems and Networking Engineer",
+        company: "Vandernet Technology Services",
+        companylogo: "/img/icons/common/download.png",
+        date: "September 2023 – March 2024",
+        desc: "Oversaw cybersecurity risk evaluations and directed the deployment and lifecycle management of security technologies to align with organizational risk tolerance and compliance standards for business clients.",
+        descBullets: [
+            "Developed and operationalized cybersecurity risk assessment policies and procedures aligned with industry standards (e.g., NIST, ISO 27001), ensuring structured and repeatable assessment practices.",
+            "Managed cybersecurity R&D strategy, driving innovation in threat detection, risk assessment methodologies, and security architecture."
+        ]
+    },
+    {
         role: "IT Systems Technician",
         company: "Archer Daniels Midland",
         companylogo: "/img/icons/common/Archer_Daniels_Midland_logo.svg",
-        date: "May 2019 – Present",
-        desc: "Manage IT systems and write/maintain web and desktop apps for production use",
+        date: "May 2019 – September 2023",
+        desc: "Managed IT infrastructure and developed web and desktop applications to support production operations.",
         descBullets: [
-            "Automated a previously manual preventitive maintenance tasks",
-            "Built and programmed a web server, consolodited various desktop applications into a single web app"
+            "Automated previously manual preventive maintenance tasks, increasing efficiency and reducing human error.",
+            "Designed and deployed a web server; consolidated multiple legacy desktop applications into a unified web-based platform for streamlined access and maintenance."
         ]
     },
     {
@@ -191,10 +224,10 @@ export const experience = [{
         company: "Vandernet Technology Services",
         companylogo: "/img/icons/common/download.png",
         date: "July 2016 – May 2019",
-        desc: "Started as desktop support, moved up to network engineer. Managed all layers of large networks",
+        desc: "Progressed from Desktop Support to Network Engineer; managed end-to-end design, implementation, and maintenance of large-scale network infrastructures.",
         descBullets: [
-            "Designed systems and services for VoIP, security, and network applications",
-            "Worked as de facto R&D"
+            "Designed and deployed systems and services supporting VoIP, network security, and enterprise-level applications.",
+            "Acted as de facto R&D lead, researching emerging technologies and developing custom network solutions to meet organizational needs."
         ]
     },
 ];
