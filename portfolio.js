@@ -169,10 +169,10 @@ export const experience = [{
         company: "Freelance",
         companylogo: "/img/icons/common/900918.jpg",
         date: "September 2019 – Present",
-        desc: "I build public and internal facing websites for commercial entities",
+        desc: "Develop and maintain both public-facing and internal web applications for commercial clients.",
         descBullets: [
-            "Design and implement robust enterprise web applications",
-            "Set up hosting, DNS, and networking for public facing websites",
+            "Design and implement scalable, enterprise-grade web applications using modern frontend and backend technologies.",
+            "Configure hosting environments, DNS, and networking infrastructure for reliable and secure website deployment.",
         ],
     },
     {
