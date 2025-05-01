@@ -9,8 +9,8 @@ const Skills = dynamic(() =>
 const Proficiency = dynamic(() =>
     import ("../containers/Proficiency"));
 // const Education = dynamic(() => import("../containers/Education"));
-const Experience = dynamic(() =>
-    import ("../containers/Experience"));
+// const Experience = dynamic(() =>
+//     import ("../containers/Experience"));
 const Projects = dynamic(() =>
     import ("../containers/Projects"));
 // const Feedbacks = dynamic(() =>
@@ -64,8 +64,8 @@ export default function Home({ githubProfileData }) {
         Skills / >
         <
         Proficiency / >
-        <
-        Experience / >
+//        <
+//        Experience / >
         <
         Projects / >
         <
