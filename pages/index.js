@@ -64,8 +64,6 @@ export default function Home({ githubProfileData }) {
         Skills / >
         <
         Proficiency / >
-//        <
-//        Experience / >
         <
         Projects / >
         <
